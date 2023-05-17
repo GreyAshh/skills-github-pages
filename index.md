@@ -1,4 +1,4 @@
 ---
-title: Into to Github Pages
+title: Intro to Github Pages
 ---
 
